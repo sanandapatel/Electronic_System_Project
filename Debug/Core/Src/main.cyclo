@@ -1,0 +1,16 @@
+../Core/Src/main.c:111:13:Generate_Hann_Window	2
+../Core/Src/main.c:120:13:Generate_Test_Signal	4
+../Core/Src/main.c:141:13:Process_FFT_Block	3
+../Core/Src/main.c:169:13:Send_FFT_Packet	3
+../Core/Src/main.c:197:5:main	4
+../Core/Src/main.c:284:6:SystemClock_Config	3
+../Core/Src/main.c:319:13:MX_ADC1_Init	5
+../Core/Src/main.c:365:13:MX_TIM6_Init	3
+../Core/Src/main.c:387:13:MX_USART2_Init	2
+../Core/Src/main.c:407:13:MX_DMA_Init	1
+../Core/Src/main.c:424:13:MX_GPIO_Init	1
+../Core/Src/main.c:441:6:HAL_ADC_ConvHalfCpltCallback	2
+../Core/Src/main.c:447:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:456:6:HAL_UART_TxCpltCallback	2
+../Core/Src/main.c:462:6:HAL_UART_ErrorCallback	2
+../Core/Src/main.c:475:6:Error_Handler	1
